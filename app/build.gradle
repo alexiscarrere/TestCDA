@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.kotlincdalyon'
+    namespace 'com.example.testcda'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.kotlincdalyon"
+        applicationId "com.example.testcda"
         minSdk 19
         targetSdk 33
         versionCode 1

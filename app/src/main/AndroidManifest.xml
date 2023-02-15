@@ -9,7 +9,7 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
-        android:theme="@style/Theme.KotlinCDALyon"
+        android:theme="@style/Theme.testcda"
         tools:targetApi="31">
         <activity
             android:name=".ProfileDetailsActivity"
@@ -18,7 +18,7 @@
             android:name=".NewActivity"
             android:exported="false"
             android:label="@string/title_activity_new"
-            android:theme="@style/Theme.KotlinCDALyon.NoActionBar" />
+            android:theme="@style/Theme.testcda.NoActionBar" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
